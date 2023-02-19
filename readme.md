@@ -1,6 +1,7 @@
 ## Search Color for Stable Diffusion -Controlnet Segmentaion
 
-This code is search object HEX colorcode  for Controlnet segmentaion
+Search object HEX colorcode  for Controlnet segmentaion
+Automatically copied to clipboard
 
 ### python
 requirements
